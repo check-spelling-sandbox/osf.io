@@ -14,7 +14,7 @@
         </p>
         % endif
         <p>
-            To review the request, click <a href="${node.absolute_url}contributors/">here</a> to allow or deny access and configure permissions.
+            To review the <a href="${node.absolute_url}contributors/">request</a> to allow or deny access and configure permissions.
         </p>
         <p>
             This request is being sent to you because your project has the “Request Access” feature enabled.
