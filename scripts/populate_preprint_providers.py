@@ -353,7 +353,7 @@ def main(env):
                 <div class="col-xs-6">
                     <ul>
                         <li><b>Tina Fetner</b>, McMaster University</li>
-                        <li><b>Dan Hirschman</b>, Brown University</li>
+                        <li><b>Dan Hirscheman</b>, Brown University</li>
                         <li><b>Rebecca Kennison</b>, K|N Consultants</li>
                         <li><b>Judy Ruttenberg</b>, Association of Research Libraries</li>
                     </ul>
